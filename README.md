@@ -1,6 +1,6 @@
 # Pharmacy Management Software
 
-#### Contributers: [Harpreet Virk](https://github.com/harpreetvirkk), [Vir Jhangiani](https://github.com/virjhangiani), [Shivam Sharda](https://github.com/virjhangiani)
+#### Contributers: [Harpreet Virk](https://github.com/harpreetvirkk), [Vir Jhangiani](https://github.com/virjhangiani), [Shivam Sharda](https://github.com/shivvamsharda)
 
 ## Table of Contents
 
