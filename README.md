@@ -1,7 +1,6 @@
 # Pharmacy Management Software
 
-## GitHub Repository
-* https://github.com/CS207-AP/Inventory-Management
+#### Contributers: [Harpreet Virk](https://github.com/harpreetvirkk), [Vir Jhangiani](https://github.com/virjhangiani), [Shivam Sharda](https://github.com/virjhangiani)
 
 ## Table of Contents
 
